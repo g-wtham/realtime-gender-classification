@@ -1,4 +1,12 @@
-Realtime Gender Classification using Pre-trained models**
+To run the realtime version, download the *Gender Classification - Webcam.py* file and also download the pre-trained models from here : (https://drive.google.com/drive/u/0/folders/1EEHsufmsvIwDVhTTouNYXfkhGb7UKKVq)
+
+Place the *Gender Classification - Webcam.py* and the 4 files in the same directory.
+
+Run the python file, an instance will open accessing your webcam, displaying the gender along with the face region highlighted on the display.
+
+-------------------------------------
+
+**Realtime Gender Classification using Pre-trained models**
 
 **_Author:_ Gowtham M**
 
